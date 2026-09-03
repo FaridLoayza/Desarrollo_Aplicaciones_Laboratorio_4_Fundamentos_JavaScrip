@@ -1,8 +1,6 @@
-// ==========================================
 // ACTIVIDAD 2
 // DE INSTRUCCIONES AISLADAS A FUNCIONES
 // REUTILIZABLES
-// ==========================================
 
 
 // PARTE 1
